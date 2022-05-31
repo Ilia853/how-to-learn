@@ -1,0 +1,8 @@
+.cards__item {
+  padding-top: 60px;
+  margin: 0;
+  width: 240px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bolder;
+}
